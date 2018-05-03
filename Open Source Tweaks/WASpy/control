@@ -1,0 +1,9 @@
+Package: com.isammour.waspy
+Name: waspy
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A small example on how easily people can spy on your whatsapp messages.
+Maintainer: Ibrahim Sammour
+Author: Ibrahim Sammour
+Section: Tweaks
